@@ -92,13 +92,7 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ---
 
-## GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdallah-khatib-7&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -125,6 +119,6 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 *Built in Lebanon 🇱🇧 · Available worldwide*
 
-![snake animation](https://github.com/Abdallah-khatib-7/Abdallah-khatib-7/blob/output/github-contribution-grid-snake-dark.svg)
+[![Visits](https://komarev.com/ghpvc/?username=Abdallah-khatib-7&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Abdallah-khatib-7)
 
 </div>
