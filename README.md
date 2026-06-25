@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-khatib)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah.khatib2003@gmail.com)
+[![Rakiz](https://img.shields.io/badge/Rakiz-Live_Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://rakiz-mocha.vercel.app)
 [![AceIt](https://img.shields.io/badge/AceIt-Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ace-it-eight.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdallah-khatib-7&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Abdallah-khatib-7)
 
@@ -23,6 +24,18 @@ Every system I've built has been designed from scratch: database schema, REST AP
 ---
 
 ## What I've Built
+
+### 💰 Rakiz — Multi-Currency Digital Wallet
+> Bank-grade payment platform with double-entry bookkeeping and AI-assisted fraud review
+
+A real digital wallet built the way a bank would build one: double-entry ledger with row-level locking, idempotent transfers, JWT refresh rotation with family-based revocation, and AES-256 encryption at rest. Six currencies, instant transfers, three types of bill splitting, shareable payment links, Stripe subscriptions, and an admin panel where fraud flags get a real AI-generated explanation and recommendation, not just a static rule name. Fully deployed — Dockerized backend on AWS EC2 behind nginx with real SSL, frontend on Vercel.
+
+**Stack:** `Node.js` `Express` `MySQL` `MongoDB` `Redis` `Socket.io` `React` `TypeScript` `Stripe` `OpenAI API` `AWS S3/EC2` `Docker` `nginx`
+
+[![Live](https://img.shields.io/badge/🌐_Live-rakiz--mocha.vercel.app-10b981?style=flat-square)](https://rakiz-mocha.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Rakiz-181717?style=flat-square&logo=github)](https://github.com/Abdallah-khatib-7/rakiz)
+
+---
 
 ### 🤖 AceIt — AI Interview Coach
 > Full-stack SaaS platform for interview preparation
@@ -65,11 +78,16 @@ A complete pharmacy management system built around the real daily workflow of a 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,10 +110,6 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ---
 
-
-
----
-
 ## Contribution Graph
 
 <div align="center">
@@ -108,9 +122,10 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ## Currently
 
+- 🚀 Rakiz is live — [rakiz-mocha.vercel.app](https://rakiz-mocha.vercel.app)
 - 🚀 AceIt is live — [ace-it-eight.vercel.app](https://ace-it-eight.vercel.app)
 - 🌱 Deepening my knowledge of AWS, Docker, and cloud architecture
-- 🔭 Next: voice interviews and LinkedIn job import to AceIt
+- 🔭 Next: SMS-verified phone payments and yearly billing for Rakiz, voice interviews for AceIt
 - 💬 Open to full-stack developer opportunities
 
 ---
