@@ -25,6 +25,18 @@ Every system I've built has been designed from scratch: database schema, REST AP
 
 ## What I've Built
 
+### 🤖 JARVIS — Local Agentic AI Assistant
+> A terminal-based, natural-language AI assistant that actually uses tools — not a chatbot with a CLI skin
+
+Built from scratch: a real agentic loop, not a command parser pretending to understand you. JARVIS runs entirely on your own machine — animated boot sequence, local SQLite identity and memory, a selectable personality (cool, warm, playful, or professional), and genuine multi-turn tool use — reading and editing files, searching the project, searching the web, working with GitHub — all through real function-calling against a provider-agnostic adapter layer. Ships as a global npm package: one command, any machine, no server, no shared backend.
+
+**Stack:** `Node.js` `TypeScript` `SQLite` `OpenAI API` `Inquirer.js` `Ora` `Figlet`
+
+[![npm](https://img.shields.io/badge/npm-@abdallahkh7/jarvis-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/@abdallahkh7/jarvis)
+[![Repo](https://img.shields.io/badge/GitHub-Jarvis-181717?style=flat-square&logo=github)](https://github.com/Abdallah-khatib-7/Jarvis)
+
+---
+
 ### 💰 Rakiz — Multi-Currency Digital Wallet
 > Bank-grade payment platform with double-entry bookkeeping and AI-assisted fraud review
 
@@ -56,6 +68,7 @@ A complete restaurant management platform serving multiple restaurants simultane
 
 **Stack:** `Node.js` `Express` `MySQL` `React` `Socket.io` `OpenAI API` `Tailwind CSS` `Framer Motion`
 
+[![Live](https://img.shields.io/badge/🌐_Live-tawla--ecru.vercel.app-7c3aed?style=flat-square)](https://tawla-ecru.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-Tawla-181717?style=flat-square&logo=github)](https://github.com/Abdallah-khatib-7/restaurant-pos)
 
 ---
@@ -67,6 +80,7 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 **Stack:** `Node.js` `Express` `MySQL` `React` `OpenAI API`
 
+[![Live](https://img.shields.io/badge/🌐_Live-pharmacy--system--wine.vercel.app-7c3aed?style=flat-square)](https://pharmacy-system-wine.vercel.app)
 [![Repo](https://img.shields.io/badge/GitHub-PharmaCare-181717?style=flat-square&logo=github)](https://github.com/Abdallah-khatib-7/pharmacy-system)
 
 ---
@@ -79,6 +93,7 @@ A complete pharmacy management system built around the real daily workflow of a 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -92,6 +107,7 @@ A complete pharmacy management system built around the real daily workflow of a 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SqlLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -122,6 +138,7 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ## Currently
 
+- 🤖 Building JARVIS — my own local agentic AI assistant, in active development
 - 🚀 Rakiz is live — [rakiz-mocha.vercel.app](https://rakiz-mocha.vercel.app)
 - 🚀 AceIt is live — [ace-it-eight.vercel.app](https://ace-it-eight.vercel.app)
 - 🌱 Deepening my knowledge of AWS, Docker, and cloud architecture
