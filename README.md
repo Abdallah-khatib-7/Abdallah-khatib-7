@@ -116,11 +116,11 @@ A complete pharmacy management system built around the real daily workflow of a 
 ## GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats-one-iota-93.vercel.app/api?username=Abdallah-khatib-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&rank_icon=github&cache=1" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdallah-khatib-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&rank_icon=github" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-khatib-7&theme=tokyonight&hide_border=true&background=0a0a0a&ring=a78bfa&fire=ec4899&currStreakLabel=ffffff" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallah-khatib-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&text_color=ffffff&langs_count=8" width="49%" />
+<img src="https://github-readme-stats-one-iota-93.vercel.app/api/top-langs/?username=Abdallah-khatib-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&text_color=ffffff&langs_count=8&cache=1" width="49%" />
 
 </div>
 
