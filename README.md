@@ -146,7 +146,9 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdallah-khatib-7/Abdallah-khatib-7/output/github-contribution-grid-snake.svg" />
+<picture>
+  <img src="https://raw.githubusercontent.com/Abdallah-khatib-7/Abdallah-khatib-7/output/github-contribution-grid-snake.svg" style="background-color:#ffffff; padding:12px; border-radius:6px;" />
+</picture>
 
 </div>
 
