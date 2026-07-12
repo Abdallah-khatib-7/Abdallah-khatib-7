@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ec4899&color_dots=161b22,3b2f5e,7c3aed,a78bfa,ec4899
+            dist/github-contribution-grid-snake.svg?palette=github&color_snake=%238b5cf6
 
       - uses: actions/upload-artifact@v4
         with:
