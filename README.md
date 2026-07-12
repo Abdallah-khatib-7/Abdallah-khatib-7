@@ -7,6 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallah-khatib)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdallah.khatib2003@gmail.com)
+[![Shipyard](https://img.shields.io/badge/Shipyard-Live_Demo-ef7f3f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://shipyard.shpit.uk)
 [![Rakiz](https://img.shields.io/badge/Rakiz-Live_Demo-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://rakiz-mocha.vercel.app)
 [![AceIt](https://img.shields.io/badge/AceIt-Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ace-it-eight.vercel.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Abdallah-khatib-7&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/Abdallah-khatib-7)
@@ -24,6 +25,18 @@ Every system I've built has been designed from scratch: database schema, REST AP
 ---
 
 ## What I've Built
+
+### 🚢 Shipyard — Static-Site Deployment Platform
+> Push a repo, get a live URL. Real container isolation, real edge routing, actually deployed to production.
+
+A deployment platform built around the genuinely hard part of the problem: running untrusted code safely. Connect a GitHub repo, push a commit, and a webhook triggers a build inside an isolated, disposable Docker container — hard CPU/memory/timeout limits, no network path to anything else, destroyed unconditionally when it's done. Output goes to S3 and is served on a live subdomain within seconds via a Cloudflare Worker + KV edge router (no per-deployment DNS records), with build logs streamed to the browser line by line over Socket.io. Deployed to real infrastructure — EC2 + nginx + Certbot for the API, RDS for the database, Cloudflare Pages for the frontend — not left running on a laptop.
+
+**Stack:** `Node.js` `Express` `TypeScript` `MySQL` `Redis` `BullMQ` `Docker` `Dockerode` `Socket.io` `React` `Cloudflare Workers` `Cloudflare KV` `AWS EC2/S3/RDS` `nginx`
+
+[![Live](https://img.shields.io/badge/🌐_Live-shipyard.shpit.uk-ef7f3f?style=flat-square)](https://shipyard.shpit.uk)
+[![Repo](https://img.shields.io/badge/GitHub-Shipyard-181717?style=flat-square&logo=github)](https://github.com/Abdallah-khatib-7/Shipyard)
+
+---
 
 ### 🤖 JARVIS — Local Agentic AI Assistant
 > A terminal-based, natural-language AI assistant that actually uses tools — not a chatbot with a CLI skin
@@ -108,6 +121,9 @@ A complete pharmacy management system built around the real daily workflow of a 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![SqlLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 </div>
 
@@ -126,6 +142,8 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ---
 
+
+
 ## Contribution Graph
 
 <div align="center">
@@ -136,8 +154,17 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ---
 
+<div align="center">
+
+*"It works on my machine" has never once shipped to production.*
+
+</div>
+
+---
+
 ## Currently
 
+- 🚢 Shipyard is live — [shipyard.shpit.uk](https://shipyard.shpit.uk) — real container isolation, real EC2/RDS/Cloudflare deployment
 - 🤖 Building JARVIS — my own local agentic AI assistant, in active development
 - 🚀 Rakiz is live — [rakiz-mocha.vercel.app](https://rakiz-mocha.vercel.app)
 - 🚀 AceIt is live — [ace-it-eight.vercel.app](https://ace-it-eight.vercel.app)
