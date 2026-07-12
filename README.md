@@ -142,6 +142,15 @@ A complete pharmacy management system built around the real daily workflow of a 
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Abdallah-khatib-7/Abdallah-khatib-7/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
 
 
 ## Contribution Graph
