@@ -134,7 +134,7 @@ A complete pharmacy management system built around the real daily workflow of a 
 <div align="center">
 <img src="https://github-readme-stats-one-iota-93.vercel.app/api?username=Abdallah-khatib-7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&icon_color=ec4899&text_color=ffffff&rank_icon=github&cache=1" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdallah-khatib-7&theme=tokyonight&hide_border=true&background=0a0a0a&ring=a78bfa&fire=ec4899&currStreakLabel=ffffff" width="49%" />
+<img src="./profile/streak.svg" width="49%" />
 
 <img src="https://github-readme-stats-one-iota-93.vercel.app/api/top-langs/?username=Abdallah-khatib-7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a78bfa&text_color=ffffff&langs_count=8&cache=1" width="49%" />
 
@@ -147,13 +147,12 @@ A complete pharmacy management system built around the real daily workflow of a 
 <div align="center">
 
 <picture>
-  <img src="https://raw.githubusercontent.com/Abdallah-khatib-7/Abdallah-khatib-7/output/github-contribution-grid-snake.svg" style="background-color:#ffffff; padding:12px; border-radius:6px;" />
+<img src="https://raw.githubusercontent.com/Abdallah-khatib-7/Abdallah-khatib-7/output/github-contribution-grid-snake.svg" style="background-color:#ffffff; padding:12px; border-radius:6px;" />
 </picture>
 
 </div>
 
 ---
-
 
 ## Contribution Graph
 
