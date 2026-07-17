@@ -16,17 +16,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate streak stats
+      - name: Generate streak stats (README theme)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=Abdallah-khatib-7&theme=tokyonight&hide_border=true&background=0a0a0a&ring=a78bfa&fire=ec4899&currStreakLabel=ffffff
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate streak stats (portfolio theme)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Abdallah-khatib-7&hide_border=true&background=0a0a0a&ring=ef7f3f&fire=ef7f3f&currStreakLabel=f5efe8&sideLabels=f5efe8&currStreakNum=f5efe8&sideNums=f5efe8&dates=a89a8a
+          path: profile/streak-portfolio.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/streak.svg
+          git add profile/streak.svg profile/streak-portfolio.svg
           git commit -m "Update streak stats" || exit 0
           git push
